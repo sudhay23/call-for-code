@@ -8,8 +8,16 @@
     width: 100vw;
 }
 
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
 .companyInfo {
     display: flex;
+    justify-content: center;
     padding: 30px 50px;
 }
 
