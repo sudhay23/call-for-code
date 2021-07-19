@@ -1,22 +1,40 @@
 * {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
         Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    margin: 0;
 }
+
+.container {
+    width: 100vw;
+}
+
+.companyInfo {
+    display: flex;
+    padding: 30px 50px;
+}
+
 #headerLogo {
     width: 100px;
+    height: 100px;
 }
 
 #headerName {
     padding: 10px 20px;
 }
 
+nav {
+}
+
 nav > ul {
     display: flex;
+    flex-wrap: wrap;
     list-style: none;
 }
 
 nav li {
+    text-align: center;
     margin: 0 15px;
+    padding: 10px 0;
 }
 
 nav a {
