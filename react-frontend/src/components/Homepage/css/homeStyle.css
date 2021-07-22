@@ -1,0 +1,31 @@
+.imageSection {
+    /* height: 500px; */
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.bgImage {
+    width: 100%;
+    min-height: 500px;
+    filter: blur(2.5px);
+    /* opacity: 0.35; */
+}
+
+.description {
+    font-size: larger;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    background-color: rgba(255, 255, 255, 0.7);
+    flex-direction: column;
+}
+
+.description p {
+    width: 80%;
+}

@@ -1,13 +1,13 @@
 import "./styles/Header.css";
 import logo from "../files/logo.jpg";
-const Header = (props) => {
+const Header = () => {
     return (
         <header>
             <div className="companyInfo">
                 <img id="headerLogo" src={logo} alt="Logo" />
-                <h1 id="headerName">EcoUse</h1>
+                <h1 id="headerName">wUse</h1>
             </div>
-            <nav style={{ padding: "30px 50px" }}>
+            <nav>
                 <ul>
                     <li>
                         <a href="https://example.com">Home</a>
