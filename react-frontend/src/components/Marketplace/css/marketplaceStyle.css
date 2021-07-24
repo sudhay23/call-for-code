@@ -7,15 +7,28 @@
     letter-spacing: 1px;
 }
 
+.mainSection {
+    padding: 20px 20px 0 0;
+}
+
 /* plasticRow */
 .plasticRow {
-    height: 200px;
+    height: 400px;
 }
 /* metalRow */
 .metalRow {
-    height: 200px;
+    height: 400px;
 }
 /* otherRow */
 .otherRow {
-    height: 200px;
+    height: 400px;
+}
+
+/* .productRow */
+.productRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 50px;
+    padding-left: 30px;
 }

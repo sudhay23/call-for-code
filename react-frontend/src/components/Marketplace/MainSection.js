@@ -3,7 +3,7 @@ import MetalRow from "./MetalRow";
 import OtherRow from "./OtherRow";
 const MainSection = () => {
     return (
-        <section>
+        <section className="mainSection">
             <PlasticRow />
             <MetalRow />
             <OtherRow />
