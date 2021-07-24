@@ -1,11 +1,11 @@
 import Header from "../Header";
+import Profile from "./Profile";
 import "./css/dashboardStyle.css";
 const Dashboard = () => {
-    alert("HELLO");
     return (
         <section className="dashboard">
             <Header />
-            Dashboard
+            <Profile />
         </section>
     );
 };
