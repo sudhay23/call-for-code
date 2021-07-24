@@ -31,6 +31,8 @@ header {
 
 #headerName {
     padding: 10px 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
 }
 
 nav > ul {
