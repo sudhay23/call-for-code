@@ -14,7 +14,7 @@ export default function OtherRow() {
                 pagination={{
                     clickable: true,
                 }}
-                className="mySwiper"
+                className="otherRow"
             >
                 <SwiperSlide>Slide 1</SwiperSlide>
                 <SwiperSlide>Slide 2</SwiperSlide>

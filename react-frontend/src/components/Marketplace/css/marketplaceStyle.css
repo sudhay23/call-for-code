@@ -6,3 +6,16 @@
     font-weight: 600;
     letter-spacing: 1px;
 }
+
+/* plasticRow */
+.plasticRow {
+    height: 200px;
+}
+/* metalRow */
+.metalRow {
+    height: 200px;
+}
+/* otherRow */
+.otherRow {
+    height: 200px;
+}

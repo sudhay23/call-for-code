@@ -14,9 +14,11 @@ export default function PlasticRow() {
                 pagination={{
                     clickable: true,
                 }}
-                className="mySwiper"
+                className="plasticRow"
             >
-                <SwiperSlide>Slide 1</SwiperSlide>
+                <SwiperSlide style={{ backgroundColor: "blue" }}>
+                    Slide 1
+                </SwiperSlide>
                 <SwiperSlide>Slide 2</SwiperSlide>
                 <SwiperSlide>Slide 3</SwiperSlide>
                 <SwiperSlide>Slide 4</SwiperSlide>

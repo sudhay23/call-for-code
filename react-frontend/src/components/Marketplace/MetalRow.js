@@ -14,7 +14,7 @@ export default function MetalRow() {
                 pagination={{
                     clickable: true,
                 }}
-                className="mySwiper"
+                className="metalRow"
             >
                 <SwiperSlide>Slide 1</SwiperSlide>
                 <SwiperSlide>Slide 2</SwiperSlide>
