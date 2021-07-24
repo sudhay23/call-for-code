@@ -7,7 +7,6 @@ import {
     CardBody,
     CardTitle,
     CardSubtitle,
-    Button,
 } from "reactstrap";
 import "swiper/components/pagination/pagination.min.css";
 import SwiperCore, { Pagination } from "swiper/core";
