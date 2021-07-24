@@ -1,0 +1,8 @@
+/* welcomeStrip */
+.welcomeStrip {
+    width: 100%;
+    background-color: rgba(57, 236, 12, 0.418);
+    padding: 40px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}

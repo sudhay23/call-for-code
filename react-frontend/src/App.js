@@ -6,8 +6,10 @@ function App() {
     return (
         <div className="App">
             <Router>
-                <Route path="/" exact component={Homepage} />
-                <Route path="/marketplace" component={Marketplace} />
+                <Switch>
+                    <Route path="/" exact component={Homepage} />
+                    <Route path="/marketplace" component={Marketplace} />
+                </Switch>
             </Router>
         </div>
     );
