@@ -16,7 +16,11 @@ header {
     flex-wrap: wrap;
     padding: 0px 10px 50px;
 }
-
+.navActive {
+    background-color: rgba(132, 230, 107, 0.404);
+    padding: 10px;
+    border-radius: 10px;
+}
 .companyInfo {
     display: flex;
     justify-content: center;
