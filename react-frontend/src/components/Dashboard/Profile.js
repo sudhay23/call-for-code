@@ -1,7 +1,7 @@
 import logo from "../../files/logo.jpg";
 const Profile = () => {
     return (
-        <section className="cardsSection">
+        <section className="dashSection">
             <div className="container">
                 <div className="top_container">
                 <div className="c_photo"><img src={logo} alt="logo" /></div>
