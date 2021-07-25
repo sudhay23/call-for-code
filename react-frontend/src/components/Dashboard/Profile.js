@@ -6,16 +6,16 @@ const Profile = () => {
                 <div className="top_container">
                 <div className="c_photo"><img src={logo} alt="logo" /></div>
                     <div className="c_name">
-                        <h1>Company name</h1>
+                        <h1>XYZ Ltd</h1>
                     </div>
                     <div className="c_cat">
-                        <h2>Company catageory</h2>
+                        <h3>Plastic</h3>
                     </div>
                     <div className="c_address">
-                        <h3>Company address</h3>
+                        <h5>20, Netaji street, Coimbatore - 641011</h5>
                     </div>
                     <div className="c_pno">
-                        <h3>Company pno</h3>
+                        <h5>+91 9020100011</h5>
                     </div>
                     <div className="profile_edit">
                         <button className="button_edit">Edit</button>
@@ -39,7 +39,7 @@ const Profile = () => {
                     <hr />
                     <div className="bottom_ele c_website">
                         <div className="bottom_ele_item c_website_label">Website</div>
-                        <div className="bottom_ele_item c_website_val"><a href="https://www.google.com">www.google.com</a></div>
+                        <div className="bottom_ele_item c_website_val"><a href="https://www.google.com">www.example.com</a></div>
                     </div>
                 </div>
             </div>
