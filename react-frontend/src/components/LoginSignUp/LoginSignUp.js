@@ -2,9 +2,8 @@ import React, { Component } from "react";
 import Header from "../Header";
 import "./LoginSignUp.css";
 
-const LoginSignUp = () =>  {
- 
-
+export default class LoginSignUp extends Component  {
+    render(){
         return (
             <section>
             <Header />
@@ -60,7 +59,7 @@ const LoginSignUp = () =>  {
 
 
         );
-    };
+    
 
 
     function register(){
@@ -87,5 +86,5 @@ const LoginSignUp = () =>  {
     
         }
 
-    export default LoginSignUp;
-
+    }
+}
