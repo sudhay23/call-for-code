@@ -36,8 +36,10 @@ const Header = () => {
                         <a href="https://example.com">About Us</a>
                     </li>
                     <li>
-                        <a href="https://example.com">Signin/Signup</a>
-                    </li>
+                    <NavLink to="/loginsignup" activeClassName="navActive">
+                            Login/SignUp
+                        </NavLink>                   
+                         </li>
                 </ul>
             </nav>
         </header>
