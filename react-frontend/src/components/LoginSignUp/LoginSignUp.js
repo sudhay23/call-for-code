@@ -124,7 +124,7 @@ export default class LoginSignUp extends Component {
             x.style.left = "-400px";
             y.style.left = "0px";
             z.style.left = "113.7px";
-            y.style.top = "-271px";
+            y.style.top = "-269.7px";
         }
 
         function login() {

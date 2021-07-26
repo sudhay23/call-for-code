@@ -12,19 +12,7 @@ const ImageSection = () => {
                 <h1>Reuse, Reduce, Recycle</h1>
                 <br />
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Cum totam culpa rem. Modi, adipisci. Quasi, voluptatibus.
-                    Veritatis inventore eius velit sint aut non necessitatibus,
-                    vel vero esse omnis, deleniti perspiciatis. Lorem ipsum
-                    dolor sit amet consectetur adipisicing elit. Minima quisquam
-                    maxime hic eius iure exercitationem? Laborum natus ipsum
-                    optio ipsa placeat. Impedit quas necessitatibus eveniet
-                    doloribus reiciendis, minima quam illo? Magnam ut
-                    reprehenderit, est aliquid obcaecati dolorum voluptate atque
-                    repellat illum aperiam a maxime vitae quisquam hic
-                    aspernatur. Voluptate recusandae nam sint rerum, officia
-                    facilis vitae sequi a error! Aspernatur?
-                </p>
+                <b>wUse</b> is the platform that helps in finding the right consumer for one’s waste. This platform will be based on the idea of producers of waste which can be categorised as Reusable/Recyclable making listings where reusable waste (the kind of waste that can be directly reused or used with minimal processing) can find it’s consumer through an auction where the producer gets a fair price. Recyclable waste on the other hand can be directly routed to the nearest recycling unit who can perform further processing on such waste. The platform also can provide intelligent suggestions on the usage of eco-friendly alternative products that the user might not be aware of at the time of user registration.                </p>
             </div>
         </section>
     );
