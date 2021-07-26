@@ -9,21 +9,13 @@ const ImageSection = () => {
                 alt="Background Pile of Waste"
             />
             <div className="description">
-                <h1>What it is...</h1>
+                <h1>Welcome to our platform</h1>
                 <br />
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Cum totam culpa rem. Modi, adipisci. Quasi, voluptatibus.
-                    Veritatis inventore eius velit sint aut non necessitatibus,
-                    vel vero esse omnis, deleniti perspiciatis. Lorem ipsum
-                    dolor sit amet consectetur adipisicing elit. Minima quisquam
-                    maxime hic eius iure exercitationem? Laborum natus ipsum
-                    optio ipsa placeat. Impedit quas necessitatibus eveniet
-                    doloribus reiciendis, minima quam illo? Magnam ut
-                    reprehenderit, est aliquid obcaecati dolorum voluptate atque
-                    repellat illum aperiam a maxime vitae quisquam hic
-                    aspernatur. Voluptate recusandae nam sint rerum, officia
-                    facilis vitae sequi a error! Aspernatur?
+                Items labelled "waste" can be used for various purposes.
+                Our platform tries to implement the following hierarchy for waste management. 
+                Source reduction and reuse recycling or composting energy recovery and treatment and disposal 
+                in the decreasing order of preference.
                 </p>
             </div>
         </section>
