@@ -1,5 +1,8 @@
 # IBM - Call For Code
 
-Sudhay Senthilkumar
-Darshan
-Sandeep
+### Team:
+
+-   Amrith V
+-   Darshan
+-   Sudhay Senthilkumar
+-   Sandeep Rajakrishnan
