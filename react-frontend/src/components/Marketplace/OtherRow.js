@@ -38,29 +38,205 @@ export default function OtherRow() {
             </Card>
             <Swiper
                 slidesPerView={"auto"}
-                spaceBetween={20}
+                spaceBetween={1}
                 pagination={{
                     clickable: true,
                 }}
                 loop={true}
                 grabCursor={true}
-                navigation={true}
                 className="otherRow col-8"
             >
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 400 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://d3pcsg2wjq9izr.cloudfront.net/files/39876/products/623003/39876_2_202007242359517930351.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">50kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 200 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://d3pcsg2wjq9izr.cloudfront.net/files/39876/products/623003/39876_2_202007242359517930351.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">50kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 400 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://d3pcsg2wjq9izr.cloudfront.net/files/39876/products/623003/39876_2_202007242359517930351.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">50kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 400 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://d3pcsg2wjq9izr.cloudfront.net/files/39876/products/623003/39876_2_202007242359517930351.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">50kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 400 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://d3pcsg2wjq9izr.cloudfront.net/files/39876/products/623003/39876_2_202007242359517930351.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">50kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
+                </SwiperSlide>
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://d3pcsg2wjq9izr.cloudfront.net/files/39876/products/623003/39876_2_202007242359517930351.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">50kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
             </Swiper>
         </div>

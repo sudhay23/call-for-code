@@ -38,29 +38,205 @@ export default function MetalRow() {
             </Card>
             <Swiper
                 slidesPerView={"auto"}
-                spaceBetween={20}
+                spaceBetween={1}
                 pagination={{
                     clickable: true,
                 }}
                 loop={true}
                 grabCursor={true}
-                navigation={true}
                 className="metalRow col-8"
             >
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 400 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://www.rubicon.com/wp-content/uploads/2021/06/ferrous-and-non-ferrous-metals.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">100kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 200 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://www.rubicon.com/wp-content/uploads/2021/06/ferrous-and-non-ferrous-metals.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">100kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 400 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://www.rubicon.com/wp-content/uploads/2021/06/ferrous-and-non-ferrous-metals.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">100kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 400 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://www.rubicon.com/wp-content/uploads/2021/06/ferrous-and-non-ferrous-metals.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">100kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
-                <SwiperSlide style={{ backgroundColor: "blue", maxWidth: 400 }}>
-                    Slide 1
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://www.rubicon.com/wp-content/uploads/2021/06/ferrous-and-non-ferrous-metals.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">100kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
+                </SwiperSlide>
+                <SwiperSlide
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        maxWidth: 400,
+                    }}
+                >
+                    <Card>
+                        <CardImg
+                            top
+                            width="100%"
+                            src="https://www.rubicon.com/wp-content/uploads/2021/06/ferrous-and-non-ferrous-metals.jpg"
+                            alt="Card image cap"
+                        />
+                        <CardBody>
+                            <CardTitle tag="h5">100kgs</CardTitle>
+                            <CardSubtitle tag="h6" className="mb-2 text-muted">
+                                Location: <span>Dublin</span>
+                            </CardSubtitle>
+                            <CardText>
+                                <ul>
+                                    <li>
+                                        <b>Listing ID:</b> #1234
+                                    </li>
+                                    <li>
+                                        <b>User:</b> JohnDoe
+                                    </li>
+                                </ul>
+                            </CardText>
+                        </CardBody>
+                    </Card>
                 </SwiperSlide>
             </Swiper>
         </div>
