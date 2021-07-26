@@ -46,4 +46,5 @@
     height: 400px;
     /* background-color: gray; */
     margin: 20px 50px;
+    box-shadow: 0 0 20px 9px #f5f4f31f;
 }
