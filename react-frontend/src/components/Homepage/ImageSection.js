@@ -9,7 +9,7 @@ const ImageSection = () => {
                 alt="Background Pile of Waste"
             />
             <div className="description">
-                <h1>What it is...</h1>
+                <h1>Reuse, Reduce, Recycle</h1>
                 <br />
                 <p>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
