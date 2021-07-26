@@ -5,7 +5,7 @@ import "./LoginSignUp.css";
 export default class LoginSignUp extends Component  {
     render(){
         return (
-            <section>
+            <section className="LoginSignUpHeader">
             <Header />
             <link rel="stylesheet" href="LoginSignUp.css"></link>
             <div className="hero">
