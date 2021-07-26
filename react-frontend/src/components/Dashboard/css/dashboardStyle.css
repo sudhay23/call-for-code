@@ -1,5 +1,4 @@
 .dashboard{
-    padding:40px 0;
     color: #1a202c;
     text-align: left;
     background-color: #e4f1e6;
@@ -11,7 +10,7 @@
 .top_container, .bottom_container {
     padding: 15px;
     box-shadow: 0 2px 5px 1px #818080;
-    margin: 0 20px 20px;
+    margin: 20px 20px 20px;
     float: left;
 }
 
