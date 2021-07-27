@@ -132,6 +132,8 @@ Mr. Sulakshan Vajipayajula , IBM
 ![WhatsApp Image 2021-07-26 at 11 37 20 AM](https://user-images.githubusercontent.com/65719940/127203044-21195881-5565-46aa-9620-95a7ecd204eb.jpeg)
 ![WhatsApp Image 2021-07-26 at 11 38 18 AM](https://user-images.githubusercontent.com/65719940/127202989-f326351f-a37b-465b-a3fa-30199701cbc4.jpeg)
 
-
+## References
+- https://www.nationalgeographic.org/article/whopping-91-percent-plastic-isnt-recycled/
+- https://www.greenbiz.com/article/5-innovations-could-end-plastic-waste 
 
 
