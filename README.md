@@ -24,7 +24,9 @@ https://user-images.githubusercontent.com/65719940/127198752-81fa4edf-48f9-4bc1-
 
 
 ## Mentor : 
-Mr. Sulakshan Vajipayajula  
+Mr. Sulakshan Vajipayajula , IBM
+
+
 
 
 ## Team members (Amrita School of Engineering, Coimbatore)
@@ -33,6 +35,8 @@ Mr. Sulakshan Vajipayajula
 - Amrith V
 - Sudhay Senthilkumar
 - Sandeep Rajakrishnan
+
+![amritalogo](https://user-images.githubusercontent.com/65719940/127201577-a8c9b400-c0e0-47c1-b95e-74f20bf17bb7.png)
 
 ## Problem
 
@@ -110,10 +114,23 @@ Mr. Sulakshan Vajipayajula
 - Have the ability to chat with the companies who proposed to recycle their waste with them to arrive at the final price.
 
 
+## Features as part of future goals
 
+- We have the information of who sold what , when and who bought what and when - using this, we can recommend “Waste Consumers” on the basis of previous purchases, another possible purchase at a relevant time to participate in bidding. 
+- Recommend “Waste Producers” on basis of previous listings, another possible listing at a relevant time to participate in auction.(IBM Knowledge Catalogue)
+- To achieve this, a hybrid collaborative and content based recommendation engine powered by IBM Cloud can be built and deployed.
 
+![engine](https://user-images.githubusercontent.com/65719940/127201072-659b396c-0538-4de0-9ffd-d650fd3657f9.png)
 
+## Few glimpses of the deployed prototype web app
 
+<img width="1440" alt="Screenshot 2021-07-27 at 11 15 05 PM" src="https://user-images.githubusercontent.com/65719940/127203054-6c10e38a-2d13-4429-ba3b-07e9e5100d7d.png">
+<img width="1440" alt="Screenshot 2021-07-27 at 11 15 16 PM" src="https://user-images.githubusercontent.com/65719940/127203012-c1e0962b-4e0a-486c-af85-b10aa010ce13.png">
+
+<img width="1440" alt="Screenshot 2021-07-27 at 11 15 28 PM" src="https://user-images.githubusercontent.com/65719940/127203002-535af888-7c1c-450f-85bb-8e53e06cc2e9.png">
+
+![WhatsApp Image 2021-07-26 at 11 37 20 AM](https://user-images.githubusercontent.com/65719940/127203044-21195881-5565-46aa-9620-95a7ecd204eb.jpeg)
+![WhatsApp Image 2021-07-26 at 11 38 18 AM](https://user-images.githubusercontent.com/65719940/127202989-f326351f-a37b-465b-a3fa-30199701cbc4.jpeg)
 
 
 
