@@ -27,10 +27,10 @@ export default function MetalRow() {
                 />
                 <CardBody>
                     <CardTitle tag="h3">Metals</CardTitle>
-                    <CardSubtitle tag="b" className="mb-2 text-muted">
+                    <CardSubtitle tag="p" className="mb-2 text-muted">
                         Did you know?
                     </CardSubtitle>
-                    <CardText>
+                    <CardText tag="h6">
                         Using recycled aluminum scrap requires 92% less energy
                         than virgin material.
                     </CardText>

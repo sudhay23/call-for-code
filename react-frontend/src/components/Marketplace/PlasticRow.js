@@ -27,10 +27,10 @@ export default function PlasticRow() {
                 />
                 <CardBody>
                     <CardTitle tag="h3">Plastics</CardTitle>
-                    <CardSubtitle tag="b" className="mb-2 text-muted">
+                    <CardSubtitle tag="p" className="mb-2 text-muted">
                         Did you know?
                     </CardSubtitle>
-                    <CardText>
+                    <CardText tag="h6">
                         Each plastic bag will take between 500 and 1,000 years
                         to decompose in landfill.
                     </CardText>

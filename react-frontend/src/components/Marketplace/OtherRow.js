@@ -27,10 +27,10 @@ export default function OtherRow() {
                 />
                 <CardBody>
                     <CardTitle tag="h3">Others</CardTitle>
-                    <CardSubtitle tag="b" className="mb-2 text-muted">
+                    <CardSubtitle tag="p" className="mb-2 text-muted">
                         Did you know?
                     </CardSubtitle>
-                    <CardText>
+                    <CardText tag="h6">
                         The number of disposable nappies each baby gets through
                         weighs the same as a family car!
                     </CardText>
