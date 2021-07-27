@@ -73,6 +73,10 @@ Mr. Sulakshan Vajipayajula , IBM
 - Backend → NodeJS
 - IBM Watson Natural Language Understanding/IBM Watson Assistant - Chatbot for handling user queries and accessing knowledge base about usage of alternative raw materials.
 
+![techstack](https://user-images.githubusercontent.com/65719940/127204308-2fb0ac61-fe1c-4ff6-a5ed-805b8cbf9dac.png)
+
+
+
 ## Roadmap
 ![c4cRoadmap](https://user-images.githubusercontent.com/65719940/127192833-82bea20a-c9da-4103-b825-0f6c45bc19e3.png)
 
